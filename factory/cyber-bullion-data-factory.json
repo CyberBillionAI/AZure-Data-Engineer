@@ -1,0 +1,9 @@
+{
+	"name": "cyber-bullion-data-factory",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9271c848-b083-465d-bb4b-3f6d905dd977",
+		"tenantId": "0c89150e-a7ed-43bb-964c-761874a86d92"
+	}
+}
